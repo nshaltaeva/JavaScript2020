@@ -42,5 +42,5 @@ console.log("=================================");
 
 for(var i=0; i < strArray.length; i++){
    // console.log(strArray[i]);
-    process.stdout.write(strArray[i])
+    process.stdout.write(strArray[i]);
 }
